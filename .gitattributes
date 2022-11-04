@@ -1,1 +1,6 @@
 ET20201215_reclass.tif filter=lfs diff=lfs merge=lfs -text
+ET20210615_reclass.tif filter=lfs diff=lfs merge=lfs -text
+LGB20201215_reclass.tif filter=lfs diff=lfs merge=lfs -text
+LGB20210615_reclass.tif filter=lfs diff=lfs merge=lfs -text
+RF20201215_reclass.tif filter=lfs diff=lfs merge=lfs -text
+RF20210615_reclass.tif filter=lfs diff=lfs merge=lfs -text
